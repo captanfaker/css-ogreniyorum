@@ -1,0 +1,10 @@
+    body { background-color: #cc615f; }
+    h1 {
+        color: hsl(86, 72%, 58%);
+        font-size: 60px ;
+        font-style: italic;
+    }
+    p {
+        color: rgb(224, 189, 33);
+        font-size: 23px ;
+    }
