@@ -1,10 +1,23 @@
-    body { background-color: #cc615f; }
-    h1 {
-        color: hsl(86, 72%, 58%);
-        font-size: 60px ;
-        font-style: italic;
-    }
-    p {
-        color: rgb(224, 189, 33);
-        font-size: 23px ;
-    }
+/***************** Layout *****************/
+
+
+/* colors*/
+
+.red-txt{
+    color: red;
+}
+
+/*font-size*/
+
+.s-txt{
+    font-size: 14px ;
+}
+.m-txt{
+    font-size: 16px ;
+}
+.l-txt{
+    font-size: 19.5px ;
+}
+.xl-txt{
+    font-size: 22px ;
+}

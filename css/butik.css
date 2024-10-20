@@ -1,0 +1,41 @@
+/************** layout ***********/
+
+/**body**/
+
+body#Butik-döner {
+        display: flex;
+        justify-content: center;
+        background-color: beige;
+        p{
+            color: #000;
+        }
+}
+body#Böcük {
+    display: flex;
+    justify-content:center;
+    color: blueviolet;
+    font-size: 50px;
+    background-color: antiquewhite;
+}
+
+/* h1,h2,h3 ve h4 ,color's*/
+
+h1 {
+    color: red;
+    font-size: 30px;
+
+}
+h2 {
+    color: blueviolet;
+    font-size: 25px;
+}
+h3 {
+    color: aqua;
+    font-size: 20px;
+}
+h4 {
+    color: bisque;
+    font-size: 17px;
+}  
+
+
